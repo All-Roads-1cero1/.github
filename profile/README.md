@@ -13,6 +13,19 @@ En esta sección se listan los documentos de Casos de Uso del sistema.
 
 ---
 
+
+## Diagramas
+
+### Diagrama de Clases
+
+Esta sección presenta la estructura de clases principal del sistema.
+
+![Diagrama de Clases del sistema](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Diagrama_de_clases/Diagrama_de_clases.png)
+
+Puedes acceder a la imagen en alta resolución directamente aquí: [Diagrama de clases](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Diagrama_de_clases/Diagrama_de_clases.png).
+
+---
+
 ##  Actores Clave del Sistema
 
 Esta sección describe los principales actores que interactúan con el proyecto **All Roads** y sus roles en la arquitectura.
