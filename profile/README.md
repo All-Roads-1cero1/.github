@@ -46,7 +46,7 @@ Esta sección describe los principales actores que interactúan con el proyecto 
 | **Rol Principal** | Servicio de mensajería transaccional que envía confirmaciones de reserva, comprobantes, avisos de pago y comunicaciones operativas. |
 | **Responsabilidades** | **Entregar correos transaccionales**; gestionar plantillas HTML responsive; mantener autenticación de dominio; registrar eventos de envío/entrega/rebote para auditoría. |
 | **Nivel de Acceso** | Integración **SMTP/API con credenciales seguras**. Sin acceso al CMS más allá del contenido a enviar. |
-| **Interacciones con sistemas externos** | Backend de ALL ROADS (disparo de correos y bitácoras); Visitante (recepción de mensajes). |
+| **Interacciones con sistemas externos** | Backend de ALL ROADS (disparo de correos); Visitante (recepción de mensajes). |
 
 
 ###  Actor: Administrador (CMS Backoffice)
