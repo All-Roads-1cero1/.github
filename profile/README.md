@@ -3,7 +3,13 @@
 Bienvenido a All Roads (Desarrollo). Este espacio centraliza la documentación técnica y las guías necesarias para contribuir, ejecutar y mantener el proyecto en su fase de desarrollo.
 
 **Qué encontrarás aquí:**
-* [Documentación principal: /docs](#documentación-principal) (Si tienes el enlace, puedes ponerlo aquí)
+##  Casos de Uso
+
+En esta sección se listan los documentos de Casos de Uso del sistema.
+
+| Actor | Documentación |
+| :--- | :--- |
+| **Administrador** | [Casos de Uso - Administrador](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Casos_de_uso/Casos-de-Uso-Administrador.pdf) |
 
 ---
 
