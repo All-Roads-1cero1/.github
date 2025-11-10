@@ -16,13 +16,13 @@ En esta sección se listan los documentos de Casos de Uso del sistema.
 
 ## Diagramas
 
-### Diagrama de Clases
+### Modelo de la base de datos
 
-Esta sección presenta la estructura de clases principal del sistema.
+Esta sección presenta el modelo de tablas de la base de datos
 
-![Diagrama de Clases del sistema](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Diagrama_de_clases/Diagrama_de_clases.png)
+![Modelo DB](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/modelo_db.png)
 
-Puedes acceder a la imagen en alta resolución directamente aquí: [Diagrama de clases](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Diagrama_de_clases/Diagrama_de_clases.png).
+Puedes acceder a la imagen en alta resolución directamente aquí: [Diagrama de clases](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/modelo_db.png).
 
 ---
 
