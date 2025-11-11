@@ -20,9 +20,9 @@ En esta sección se listan los documentos de Casos de Uso del sistema.
 
 Esta sección presenta el modelo de tablas de la base de datos
 
-![Modelo DB](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/modelo_db.png)
+![Modelo DB](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/model_db.svg)
 
-Puedes acceder a la imagen en alta resolución directamente aquí: [Diagrama de clases](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/modelo_db.png).
+Puedes acceder a la imagen en alta resolución directamente aquí: [Diagrama de clases](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/model_db.svg).
 
 ---
 
