@@ -10,7 +10,7 @@ En esta sección se listan los documentos de Casos de Uso del sistema.
 | Actor | Documentación |
 | :--- | :--- |
 | **Administrador** | [Casos de Uso - Administrador](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Casos_de_uso/Casos-de-Uso-Administrador.pdf) |
-| **Visitantes** | [Casos de Uso - Visitantes](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Casos_de_uso/Casos-de-Uso-Visitantes.pdf) |
+| **Visitantes** | [Casos de Uso - Visitantes](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Casos_de_uso/Casos-de-Uso-Visitante.pdf) |
 | **Pasarela Pago** | [Casos de Uso - Pasarela Pago](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Casos_de_uso/Casos-de-Uso-Pasarela-Pago.pdf) |
 | **Servicio Correo** | [Casos de Uso - Servicio Correo](https://github.com/All-Roads-1cero1/Documentacion_Desarrollo/blob/main/Casos_de_uso/Casos-de-Uso-Servicio-Correo.pdf) |
 
