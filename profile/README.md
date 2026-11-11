@@ -16,6 +16,15 @@ Url producto: **https://allroadsmedellin.com.co/**
   <a href="https://github.com/All-Roads-1cero1/AllRoads_Backend">
     <img src="https://img.shields.io/badge/BACKEND-ALL%20ROADS-0F766E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Backend All Roads">
   </a>
+  
+<a href="https://github.com/All-Roads-1cero1/user-admin">
+  <img
+    src="https://img.shields.io/badge/PANEL%20OPERATIVO-ADMIN%20DE%20USUARIOS-263238?style=for-the-badge&logo=github&logoColor=white"
+    alt="Panel Operativo - Administración de Usuarios"
+  >
+</a>
+&nbsp;
+
 </p>
 
 Este repositorio centraliza la documentación del proyecto desde la construcción del **MVP - Fase 1** hasta la planificación y ejecución de la **Fase 2**.
